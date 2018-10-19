@@ -3,5 +3,5 @@ DunGen is a roguelike featuring procedural generation, diverse enemy types, tons
 
 INSTRUCTIONS FOR PLAYING:
 
--> Download the DunGen-Prototypes folder.
+-> Download the DunGen-Prototypes folder
 -> Run DunGen BETA
