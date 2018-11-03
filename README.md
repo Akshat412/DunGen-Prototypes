@@ -1,5 +1,5 @@
 # DunGen Prototypes
-DunGen is a roguelike featuring procedural generation, diverse enemy types, tons of combat, and an '80s style metal soundtrack. 
+Just a convenient place to hold the playable version of DunGen.  
 
 INSTRUCTIONS FOR PLAYING:
 
